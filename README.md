@@ -1,4 +1,4 @@
-# GeneralWKSTInstaller
+# General Program Installer
 Downloads and Installs - Firefox, Chrome, Office Apps, Adobe Reader DC
 
 This was created to be simple and run from an RMM system to configure these programs on new PCs without having to babysit the download and installation of each one.
